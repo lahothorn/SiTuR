@@ -1,0 +1,9 @@
+Package: SiTuR
+Type: Package
+Title: Data files for Statistics in Toxicology using R
+Version: 1.0
+Date: 2014-07-25
+Author: Ludwig A. Hothorn 
+Maintainer: Ludwig A. Hothorn <hothorn@biostat.uni-hannover.de>
+Description: Provide data files in toxicology
+License: What license is it under?
