@@ -1,10 +1,8 @@
 \name{clin}
 \alias{clin}
 \docType{data}
-\title{Clinical chemistry data}
-\description{
-Clinical chemistry data from the 13 weeks NTP study using sodium dichromate dihydrate to F344 rats
-}
+\title{Clinical}
+\description{abc}
 \usage{data("clin")}
 \format{
   A data frame with 60 observations on the following 19 variables.

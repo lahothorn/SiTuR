@@ -2,7 +2,7 @@
 \alias{woo}
 \docType{data}
 \title{Graded histopathological findings- basophilic tubules}
-\description{Graded histopathological findingsof basophilic tubules in the kidneys of male rats (Table 6 in \cite{Woo2007} of the 28-days oral dose toxicity study of nonylphenol}
+\description{Histopathological findings as an example the findings of basophilic tubules in the kidneys of male rats (Table 6 in \cite{Woo2007} of a 28-days oral dose toxicity study of nonylphenol}
 \usage{data("woo")}
 \format{
   A data frame with 40 observations on the following 3 variables.
@@ -16,20 +16,14 @@
 %%  ~~ If necessary, more details than the __description__ above ~~
 }
 \source{
+%%  ~~ reference to a publication or URL from which the data were obtained ~~
 }
-
 \references{
-@Article{Woo2007,
-  Title                    = {A repeated 28-day oral dose toxicity study of nonylphenol in rats, based on the 'Enhanced OECD Test Guideline 407' for screening of endocrine-disrupting chemicals},
-  Author                   = {Woo, G. H. and Shibutani, M. and Ichiki, T. and Hamamura, M. and Lee, K. Y. and Inoue, K. and Hirose, M.},
-  Journal                  = {Archives of Toxicology},
-  Year                     = {2007},
+G. H. Woo, M. Shibutani, T. Ichiki, M. Hamamura, K. Y. Lee, K. Inoue, and M. Hirose.
+A repeated 28-day oral dose toxicity study of nonylphenol in rats, based on the
+'enhanced oecd test guideline 407' for screening of endocrine-disrupting chemicals.
+Archives of Toxicology, 81(2):77{88, February 2007.}
 
-  Month                    = feb,
-  Number                   = {2},
-  Pages                    = {77--88},
-  Volume                   = {81},
-}
 \examples{
 data(woo)
 ## maybe str(woo) ; plot(woo) ...
