@@ -1,12 +1,8 @@
 \name{wuleon}
 \alias{wuleon}
 \docType{data}
-\title{Wu and Leon Data
-%%   ~~ data name/kind ... ~~
-}
-\description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
-}
+\title{Wu and Leon Data}
+\description{xyz}
 \usage{data("wuleon")}
 \format{
   A data frame with 1028 observations on the following 4 variables. b 
