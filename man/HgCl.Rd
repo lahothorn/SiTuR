@@ -1,13 +1,8 @@
 \name{HgCl}
 \alias{HgCl}
 \docType{data}
-\title{NTP raw data: Mercuric Chloride Bioassay}
-\description{
-National Toxicology Program. Toxicology and Carcinogenesis Studies of Mercuric Chloride
-(CAS No. 7487-94-7) in F344 Rats and B6C3F1 Mice (Gavage Studies). Technical
-Report 408, U.S. Department of Health and Human Services, Research Triangle Park,
-NC, February 1993. URL http://ntp.niehs.nih.gov/ntp/htdocs/lt_rpts/tr408.
-pdf}
+\title{HgCl}
+\description{abc}
 \usage{data("HgCl")}
 \format{
   A data frame with 180 observations on the following 5 variables.
