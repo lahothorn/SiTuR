@@ -1,12 +1,8 @@
 \name{recov}
 \alias{recov}
 \docType{data}
-\title{
-%%   ~~ data name/kind ... ~~
-}
-\description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
-}
+\title{Body weight data in the recovery period}
+\description{Recovery period data}
 \usage{data("recov")}
 \format{
   A data frame with 120 observations on the following 33 variables.
@@ -46,17 +42,9 @@
     \item{\code{Week28}}{a numeric vector}
   }
 }
-\details{
-%%  ~~ If necessary, more details than the __description__ above ~~
-}
-\source{
-%%  ~~ reference to a publication or URL from which the data were obtained ~~
-}
-\references{
-%%  ~~ possibly secondary sources and usages ~~
-}
+\source{National Toxicology Program. General Toxicology - Short Term (05161-03) Toxicity
+Evaluation of Riddeline}
 \examples{
 data(recov)
-## maybe str(recov) ; plot(recov) ...
 }
 \keyword{datasets}
