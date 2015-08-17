@@ -1,8 +1,8 @@
 \name{clin}
 \alias{clin}
 \docType{data}
-\title{Clinical chemistry data: serum triglycerides}
-\description{Clinical chemistry data}
+\title{Clinical chemistry data}
+\description{Serum triglycerides}
 \usage{data("clin")}
 \format{
   A data frame with 60 observations on the following 19 variables.
@@ -28,8 +28,8 @@
     \item{\code{Potassium}}{a numeric vector}
   }
 }
-\references{Toxicology and Carcinogenesis Studies of Sodium Dichromate Dihydrate (CAS No.
-7789-12-0) in F344/N Rats and B6C3F1 Mice (Drinking Water Studies), 2010.}
+\source{Toxicology and Carcinogenesis Studies of Sodium Dichromate Dihydrate (CAS No.
+7789-12-0) in F344/N Rats and B6C3F1 Mice (Drinking Water Studies), 2010}
 \examples{
 data(clin)
 }
