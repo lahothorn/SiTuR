@@ -1,12 +1,8 @@
 \name{parotid}
 \alias{parotid}
 \docType{data}
-\title{
-%%   ~~ data name/kind ... ~~
-}
-\description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
-}
+\title{Severity findings of hyperplasia in parotid gland (salivary glands)}
+\description{Severity findings}
 \usage{data("parotid")}
 \format{
   A data frame with 90 observations on the following 5 variables.
@@ -18,17 +14,11 @@
     \item{\code{Group}}{a factor with levels \code{control} \code{low} \code{medium}}
   }
 }
-\details{
-%%  ~~ If necessary, more details than the __description__ above ~~
+\source{National Cancer Institute. Carcinogenesis technical report series no. 142 1979 bioassay
+of p-cresidine for possible carcinogenicity nci-cg-tr-142. Technical report, 1979.
 }
-\source{
-%%  ~~ reference to a publication or URL from which the data were obtained ~~
-}
-\references{
-%%  ~~ possibly secondary sources and usages ~~
-}
+
 \examples{
 data(parotid)
-## maybe str(parotid) ; plot(parotid) ...
 }
 \keyword{datasets}
