@@ -22,10 +22,9 @@
 G. H. Woo, M. Shibutani, T. Ichiki, M. Hamamura, K. Y. Lee, K. Inoue, and M. Hirose.
 A repeated 28-day oral dose toxicity study of nonylphenol in rats, based on the
 'enhanced oecd test guideline 407' for screening of endocrine-disrupting chemicals.
-Archives of Toxicology, 81(2):77{88, February 2007.}
+Archives of Toxicology, 81(2):77 88, February 2007.}
 
 \examples{
 data(woo)
-## maybe str(woo) ; plot(woo) ...
 }
 \keyword{datasets}

@@ -29,7 +29,7 @@
   }
 }
 \references{Toxicology and Carcinogenesis Studies of Sodium Dichromate Dihydrate (CAS No.
-7789-12-0) in F344/N Rats and B6C3F1 Mice (Drinking Water Studies), 2010.
+7789-12-0) in F344/N Rats and B6C3F1 Mice (Drinking Water Studies), 2010.}
 \examples{
 data(clin)
 }
