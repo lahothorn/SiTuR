@@ -1,8 +1,8 @@
 \name{gaa}
 \alias{gaa}
 \docType{data}
-\title{G. aparine}
-\description{abc}
+\title{Dry matter weights}
+\description{Dry matter weights (mg/pot)  for small plants of Galium aparine}
 \usage{data("gaa")}
 \format{
   A data frame with 100 observations on the following 6 variables.
@@ -15,17 +15,8 @@
     \item{\code{IAfac}}{a factor with levels \code{0:C} \code{12:P} \code{12:M} \code{100:P} \code{100:M} \code{200:P} \code{200:M}}
   }
 }
-\details{
-%%  ~~ If necessary, more details than the __description__ above ~~
-}
-\source{
-%%  ~~ reference to a publication or URL from which the data were obtained ~~
-}
-\references{
-%%  ~~ possibly secondary sources and usages ~~
-}
+\source{Available in package(drc) citing:  Cabanne, F., Gaudry, J. C. and Streibig, J. C. (1999) Influence of alkyl oleates on efficacy of phenmedipham applied as an acetone:water solution on Galium aparine, Weed Research, 39, 57–67}
 \examples{
 data(gaa)
-## maybe str(gaa) ; plot(gaa) ...
 }
 \keyword{datasets}

@@ -1,8 +1,9 @@
 \name{HgCl}
 \alias{HgCl}
 \docType{data}
-\title{HgCl}
-\description{abc}
+\title{Body weights after 65 and 105 weeks in a longterm
+study}}
+\description{Body weight data}
 \usage{data("HgCl")}
 \format{
   A data frame with 180 observations on the following 5 variables.
@@ -14,17 +15,11 @@
     \item{\code{Week.105}}{a numeric vector}
   }
 }
-\details{
-%%  ~~ If necessary, more details than the __description__ above ~~
-}
 \source{
-%%  ~~ reference to a publication or URL from which the data were obtained ~~
-}
-\references{
-%%  ~~ possibly secondary sources and usages ~~
-}
+National Toxicology Program. Toxicology and Carcinogenesis Studies of
+Mercuric Chloride (CAS No. 7487-94-7) in F344 Rats and B6C3F1
+Mice (Gavage Studies). Technical Report 408}
 \examples{
 data(HgCl)
-## maybe str(HgCl) ; plot(HgCl) ...
 }
 \keyword{datasets}

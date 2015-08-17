@@ -1,8 +1,8 @@
 \name{wuleon}
 \alias{wuleon}
 \docType{data}
-\title{Wu and Leon Data}
-\description{xyz}
+\title{Pup weights and malformation rates}
+\description{Multiple endpoints in reproductive bioassay: the pup weights and malformation rates}
 \usage{data("wuleon")}
 \format{
   A data frame with 1028 observations on the following 4 variables. b 
@@ -13,17 +13,10 @@
     \item{\code{Malformation}}{a numeric vector}
   }
 }
-\details{
-%%  ~~ If necessary, more details than the __description__ above ~~
-}
-\source{
-%%  ~~ reference to a publication or URL from which the data were obtained ~~
-}
-\references{
-%%  ~~ possibly secondary sources and usages ~~
-}
+\source{B. L. Wu and A. R. de Leon. Gaussian copula mixed models for clustered mixed
+outcomes, with application in developmental toxicology. Journal of Agricultural Bio-
+logical and Environmental Statistics, 19(1):39–56, March 2014}
 \examples{
 data(wuleon)
-## maybe str(wuleon) ; plot(wuleon) ...
 }
 \keyword{datasets}
