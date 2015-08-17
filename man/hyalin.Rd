@@ -1,34 +1,20 @@
-\name{np}
-\alias{np}
+\name{hyalin}
+\alias{hyalin}
 \docType{data}
-\title{
-%%   ~~ data name/kind ... ~~
-}
-\description{
-%%  ~~ A concise (1-5 lines) description of the dataset. ~~
-}
-\usage{data("np")}
+\title{Hyaline droplets findings}
+\description{Incidence of microscopic findings in the kidneys }
+\usage{data("hyalin")}
 \format{
-  A data frame with 60 observations on the following 5 variables.
+  A data frame with 48 observations on the following 2 variables.
   \describe{
-    \item{\code{Dose}}{a factor with levels \code{Control} \code{D0.03} \code{D0.1} \code{D0.3} \code{D1} \code{D3}}
-    \item{\code{Animal}}{a numeric vector}
-    \item{\code{PCE}}{a numeric vector}
-    \item{\code{MN}}{a numeric vector}
-    \item{\code{MNP}}{a numeric vector}
+    \item{\code{dose}}{a factor with levels \code{0} \code{5} \code{10} \code{15} \code{20} \code{30} \code{45} \code{90}}
+    \item{\code{droplets}}{a numeric vector}
   }
 }
-\details{
-%%  ~~ If necessary, more details than the __description__ above ~~
-}
 \source{
-%%  ~~ reference to a publication or URL from which the data were obtained ~~
-}
-\references{
-%%  ~~ possibly secondary sources and usages ~~
-}
+In Table 1 of: A. Swain, J. Turton, and M. York. Nephrotoxicity of hexachloro-1:3-butadiene in the male Hanover Wistar rat; correlation of minimal histopathological changes with
+biomarkers of renal injury. J Appl Toxicol, 32(6):417–428, JUN 2012.}
 \examples{
-data(np)
-## maybe str(np) ; plot(np) ...
+data(hyalin)
 }
 \keyword{datasets}
