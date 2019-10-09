@@ -2,7 +2,6 @@
 \alias{ragazz}
 \docType{data}
 \title{Behavioral test data}
-}
 \description{Behavioral tests on selected pups in a neurotoxicity bioassay on 64 pregnant female rats}
 \usage{data("ragazz")}
 \format{
